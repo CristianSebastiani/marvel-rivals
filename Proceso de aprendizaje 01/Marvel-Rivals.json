@@ -1,0 +1,20 @@
+{
+  "personajes": [
+    {
+      "id": 1,
+      "nombre": "Iron Man",
+      "rol": "Daño",
+      "habilidades": ["Repulsor Blast", "Unibeam", "Flight"],
+      "imagen": "img/ironman.jpg",
+      "descripcion": "Tony Stark en su traje de alta tecnología."
+    },
+    {
+      "id": 2,
+      "nombre": "Spider-Man",
+      "rol": "Ágil",
+      "habilidades": ["Web Shot", "Swing Kick", "Spider Sense"],
+      "imagen": "img/spiderman.jpg",
+      "descripcion": "Peter Parker, el amistoso vecino trepamuros."
+    }
+  ]
+}
