@@ -23,6 +23,14 @@
       "habilidades": ["Web Shot", "Swing Kick", "Spider Sense"],
       "imagen": "img/spiderman.jpg",
       "descripcion": "Peter Parker, el amistoso vecino trepamuros."
+    },
+    {
+      "id": 4,
+      "nombre": "Iron Man",
+      "rol": "Duelista",
+      "habilidades": ["Repulsor Blast", "Unibeam", "Flight"],
+      "imagen": "img/ironman.jpg",
+      "descripcion": "Tony Stark un genio, millonario, playboy, filántropo"
     }
   ]
 }
