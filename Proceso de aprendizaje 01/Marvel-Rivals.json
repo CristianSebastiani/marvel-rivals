@@ -11,7 +11,7 @@
     {
       "id": 2,
       "nombre": "Spider-Man",
-      "rol": "Vanguardia",
+      "rol": "Duelista",
       "habilidades": ["Web Shot", "Swing Kick", "Spider Sense"],
       "imagen": "https://raw.githubusercontent.com/CristianSebastiani/marvel-rivals/main/img/spiderman.jpg",
       "descripcion": "Peter Parker, el amistoso vecino trepamuros."
