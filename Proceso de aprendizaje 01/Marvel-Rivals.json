@@ -39,6 +39,14 @@
       "habilidades": ["Smooth Skate", "Absolute Zero", "Fate Of Both Worlds"],
       "imagen": "img/luna_snow.jpg",
       "descripcion": "Seol Hee la super estrella del K-pop con poderes de control de hielo"
+    },
+     {
+      "id": 6,
+      "nombre": "Jeff The Land Shark",
+      "rol": "Soporte",
+      "habilidades": ["Joyful Splash", "Aqua Burst", "It's Jeff!"],
+      "imagen": "img/jeff.jpg",
+      "descripcion": "El tiburon de tierra Jeff aterriza en el campo de batalla"
     }
   ]
 }
