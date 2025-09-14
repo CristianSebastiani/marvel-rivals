@@ -1,4 +1,4 @@
-fetch('https://raw.githubusercontent.com/tu-usuario/marvel-rivals/main/Marvel-Rivals.json')
+fetch('https://raw.githubusercontent.com/CristianSebastiani/marvel-rivals/main/Marvel-Rivals.json')
     .then(response => response.json())
     .then(data => {
         const contenedor = document.getElementById('contenedor-personajes');
