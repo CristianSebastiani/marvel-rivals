@@ -5,7 +5,7 @@
       "nombre": "Hulk",
       "rol": "Vanguardia",
       "habilidades": ["Heavy Blow", "Gamma Burst", "Hulk Smash!"],
-      "imagen": "https://raw.githubusercontent.com/CristianSebastiani/marvel-rivals/main/img/hulk.jpg",
+      "imagen": "img/hulk.jpg",
       "descripcion": "Bruce banner transformado en el gigante esmeralda HULK."
     },
     {
