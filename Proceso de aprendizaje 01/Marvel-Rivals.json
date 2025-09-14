@@ -2,16 +2,16 @@
   "personajes": [
     {
       "id": 1,
-      "nombre": "Iron Man",
-      "rol": "Daño",
-      "habilidades": ["Repulsor Blast", "Unibeam", "Flight"],
-      "imagen": "img/ironman.jpg",
-      "descripcion": "Tony Stark en su traje de alta tecnología."
+      "nombre": "Hulk",
+      "rol": "Vanguardia",
+      "habilidades": ["Heavy Blow", "Gamma Burst", "Hulk Smash!"],
+      "imagen": "img/Hulk.jpg",
+      "descripcion": "Bruce banner transformado en el gigante esmeralda HULK."
     },
     {
       "id": 2,
       "nombre": "Spider-Man",
-      "rol": "Ágil",
+      "rol": "Vanguardia",
       "habilidades": ["Web Shot", "Swing Kick", "Spider Sense"],
       "imagen": "img/spiderman.jpg",
       "descripcion": "Peter Parker, el amistoso vecino trepamuros."
