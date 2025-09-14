@@ -5,7 +5,7 @@
       "nombre": "Hulk",
       "rol": "Vanguardia",
       "habilidades": ["Heavy Blow", "Gamma Burst", "Hulk Smash!"],
-      "imagen": "https://raw.githubusercontent.com/CristianSebastiani/marvel-rivals/main/img/hulk.jpg",
+      "imagen": "img/hulk.jpg",
       "descripcion": "Bruce Banner transformado en el gigante esmeralda HULK."
     },
     {
@@ -13,7 +13,7 @@
       "nombre": "Spider-Man",
       "rol": "Duelista",
       "habilidades": ["Web Shot", "Swing Kick", "Spider Sense"],
-      "imagen": "https://raw.githubusercontent.com/CristianSebastiani/marvel-rivals/main/img/spiderman.jpg",
+      "imagen": "img/spiderman.jpg",
       "descripcion": "Peter Parker, el amistoso vecino trepamuros."
     },
     {
@@ -21,7 +21,7 @@
       "nombre": "Capitan America",
       "rol": "Vanguardia",
       "habilidades": ["Sentinel Strike", "Super-Soldier Slam", "Freedom Charge"],
-      "imagen": "https://raw.githubusercontent.com/CristianSebastiani/marvel-rivals/main/img/capitan_america.jpg",
+      "imagen": "capitan_america.jpg",
       "descripcion": "Steve Rogers, el símbolo de la justicia y libertad."
     }
   ]
