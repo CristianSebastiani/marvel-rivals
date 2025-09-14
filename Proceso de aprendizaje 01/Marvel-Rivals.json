@@ -15,6 +15,14 @@
       "habilidades": ["Web Shot", "Swing Kick", "Spider Sense"],
       "imagen": "img/spiderman.jpg",
       "descripcion": "Peter Parker, el amistoso vecino trepamuros."
+    },
+    {
+      "id": 3,
+      "nombre": "Capitan America",
+      "rol": "Vanguardia",
+      "habilidades": ["Sentinel Strike", "Super-Soldier Slam", "Freedom Charge"],
+      "imagen": "img/capitan america.jpg",
+      "descripcion": "Steve Rogers el simbolo de la justicia y libertad."
     }
   ]
 }
